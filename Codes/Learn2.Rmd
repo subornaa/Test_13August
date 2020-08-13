@@ -3,8 +3,9 @@ title: "Learn2"
 author: "Suborna Ahmed"
 date: "13/08/2020"
 output:
-  html_document: default
+  word_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
